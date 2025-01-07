@@ -1,6 +1,6 @@
 # HTML5 Platformer Game Summary
 
-The project is an **HTML5 platformer game** inspired by *Mario*, developed using the **Kaboom.js** library. 
+The project is an **HTML5 platformer game** inspired by *Super Mario*, developed using the **Kaboom.js** library. 
 
 ## Gameplay Overview
 - Players navigate through multiple levels.
